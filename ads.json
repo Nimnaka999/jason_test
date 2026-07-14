@@ -1,6 +1,13 @@
 {
-  "image":    [{ "1", "https://images-ext-1.discordapp.net/external/TXAEOdTSdLbUvhks3P9QpAVGmLTSfKDPdsTUPrp9NC4/https/github.com/Nimnaka999/chithrapatiya-images-/releases/download/ad-1/ad1.png?format=webp&quality=lossless&width=1356&height=757", "linkUrl", "alt?" }],
-  "video":    [{ "id", "videoUrl", "linkUrl" }],
-  "redirect": [{ "id", "linkUrl" }],
-  "legacy":   [{ "id", "imageUrl", "linkUrl", "alt" }]  
+  "image": [
+    {
+      "id": 1,
+      "imageUrl": "https://images-ext-1.discordapp.net/external/TXAEOdTSdLbUvhks3P9QpAVGmLTSfKDPdsTUPrp9NC4/https/github.com/Nimnaka999/chithrapatiya-images-/releases/download/ad-1/ad1.png?format=webp&quality=lossless&width=1356&height=757",
+      "linkUrl": "https://images-ext-1.discordapp.net/external/TXAEOdTSdLbUvhks3P9QpAVGmLTSfKDPdsTUPrp9NC4/https/github.com/Nimnaka999/chithrapatiya-images-/releases/download/ad-1/ad1.png?format=webp&quality=lossless&width=1356&height=757",
+      "alt": "Chithrapatiya Ad"
+    }
+  ],
+  "video": [],
+  "redirect": [],
+  "legacy": []
 }
