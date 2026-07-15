@@ -14,7 +14,7 @@
 }
 {
   "requestUrl": "...",
-  "image": [...],     
+  "image": [],     
   "video": [],
   "redirect": [],
   "legacy": [],
@@ -27,7 +27,7 @@
     }
   ],
 
-  "watchPage": [       // watch page ONLY ads
+  "watchPage": [       
     {
       "id": "watch-1",
       "imageUrl": "https://images-ext-1.discordapp.net/external/xhGPlzyxNE7QpCfu1aR-Dd9nZo8pbqkNg3dMLjvVzwk/%3Fraw%3Dtrue/https/github.com/heshanrusiru792/gg/blob/main/ggg.jpg?format=webp",
