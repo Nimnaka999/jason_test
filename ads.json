@@ -10,33 +10,19 @@
   ],
   "video": [],
   "redirect": [],
-  "legacy": []
-}
-{
-  "requestUrl": "...",
-  "image": [],     
-  "video": [],
-  "redirect": [],
   "legacy": [],
-
-  "homePage": [        
+  "homePage": [
     {
       "id": "home-1",
-      "imageUrl": "https://images-ext-1.discordapp.net/external/TXAEOdTSdLbUvhks3P9QpAVGmLTSfKDPdsTUPrp9NC4/https/github.com/Nimnaka999/chithrapatiya-images-/releases/download/ad-1/ad1.png?format=webp&quality=lossless&width=1356&height=757",
-      "linkUrl": "https://images-ext-1.discordapp.net/external/TXAEOdTSdLbUvhks3P9QpAVGmLTSfKDPdsTUPrp9NC4/https/github.com/Nimnaka999/chithrapatiya-images-/releases/download/ad-1/ad1.png?format=webp&quality=lossless&width=1356&height=757"
+      "imageUrl": "YOUR_HOME_AD_IMAGE_URL",
+      "linkUrl": "YOUR_HOME_AD_LINK_URL"
     }
   ],
-
-  "watchPage": [       
+  "watchPage": [
     {
       "id": "watch-1",
-      "imageUrl": "https://images-ext-1.discordapp.net/external/xhGPlzyxNE7QpCfu1aR-Dd9nZo8pbqkNg3dMLjvVzwk/%3Fraw%3Dtrue/https/github.com/heshanrusiru792/gg/blob/main/ggg.jpg?format=webp",
-      "linkUrl": "https://images-ext-1.discordapp.net/external/xhGPlzyxNE7QpCfu1aR-Dd9nZo8pbqkNg3dMLjvVzwk/%3Fraw%3Dtrue/https/github.com/heshanrusiru792/gg/blob/main/ggg.jpg?format=webp"
-    },
-    {
-      "id": "watch-2",
-      "videoUrl": "https://...",
-      "linkUrl": "https://..."
+      "imageUrl": "YOUR_WATCH_AD_IMAGE_URL",
+      "linkUrl": "YOUR_WATCH_AD_LINK_URL"
     }
   ]
 }
